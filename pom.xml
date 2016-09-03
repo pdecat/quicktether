@@ -32,9 +32,10 @@
     </parent>
 
     <scm>
-        <connection>scm:svn:http://dear2dear.googlecode.com/svn/trunk/qt/QuickTether</connection>
-        <developerConnection>scm:svn:https://dear2dear.googlecode.com/svn/trunk/qt/QuickTether</developerConnection>
-        <url>http://code.google.com/p/dear2dear/source/browse/#svn%2Ftrunk%2Fqt%2FQuickTether</url>
+        <connection>scm:git:https://github.com/pdecat/quicktether</connection>
+        <developerConnection>scm:git:git@github.com:pdecat/quicktether</developerConnection>
+        <url>https://github.com/pdecat/quicktether</url>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
